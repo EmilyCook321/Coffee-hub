@@ -1,4 +1,4 @@
-node_modules/
+
 
 # dependencies
 node_modules/
@@ -16,4 +16,4 @@ yarn-error.log*
 /out*/
 
 # editors
-.vscode
+.vscodegit 
