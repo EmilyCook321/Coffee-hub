@@ -3,4 +3,4 @@ import list from "./list.html";
 
 export default { title: "List" };
 
-export const addToCart = () => List;
+export const coffeeList = () => list;
