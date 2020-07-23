@@ -1,18 +1,17 @@
-.container {
+.welcome {
+  display: flex;
   width: 100vw;
   height: 100vh;
   background-image: url("../../assets/Background.png");
-  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .logo {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 300px;
-  height: 300px;
-  margin-top: -150px;
-  margin-left: -150px;
+
 }
 
 .welcome > * {
