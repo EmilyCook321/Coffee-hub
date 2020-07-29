@@ -1,4 +1,13 @@
 .details {
+height: 100vh;
+display: flex;
+flex-direction: column;
+
+}
+
+.details__header{
+    background-image: url(../../);
+
 }
 
 .details__title {
