@@ -16,6 +16,11 @@ export const createQuantitySelector = () => {
     className: "quantitySelector",
   });
 
+  const plusButton = createElement("button", {
+    className: "quantitySelector_plus",
+    disabled: true,
+  });
+
   const minusButton = createElement("button", {
     className: "quantitySelector_minus",
     disabled: true,
