@@ -1,13 +1,11 @@
 .details {
-height: 100vh;
-display: flex;
-flex-direction: column;
-
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
-.details__header{
-    background-image: url(../../);
-
+.details__header {
+  background-image: url(../../assets/Background.png);
 }
 
 .details__title {
